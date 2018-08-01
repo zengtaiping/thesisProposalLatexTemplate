@@ -23,5 +23,5 @@ Please put images in subfolder /img, for example
 5. compile the .tex by 
 xelatex
 bibtex
-bibtex
+xelatex
 xelatex
