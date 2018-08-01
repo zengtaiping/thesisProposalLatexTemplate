@@ -1,0 +1,413 @@
+
+@article{mcnaughton_path_2006,
+	title = {Path integration and the neural basis of the'cognitive map'},
+	volume = {7},
+	pages = {663--678},
+	number = {8},
+	journaltitle = {Nature Reviews Neuroscience},
+	author = {{McNaughton}, Bruce L. and Battaglia, Francesco P. and Jensen, Ole and Moser, Edvard I. and Moser, May-Britt},
+	date = {2006},
+	file = {Path integration and the neural basis of the ‘cognitive map’.pdf:/home/taiping/.mozilla/firefox/ipyx52cz.default/zotero/storage/PJSUPKWJ/ Path integration and the neural basis of the ‘cognitive map’.pdf:application/pdf}
+}
+
+@article{knierim_attractor_2012,
+	title = {Attractor dynamics of spatially correlated neural activity in the limbic system},
+	volume = {35},
+	pages = {267--285},
+	journaltitle = {Annual review of neuroscience},
+	author = {Knierim, James J and Zhang, Kechen},
+	date = {2012},
+	file = {Attractor Dynamics of Spatially Correlated Neural Activity in the Limbic System - AttractosdynamicsofSpatially.pdf:/home/taiping/.mozilla/firefox/ipyx52cz.default/zotero/storage/E64JDAN5/AttractosdynamicsofSpatially.pdf:application/pdf}
+}
+
+@inreference{_darpa_2016,
+	title = {{DARPA} Robotics Challenge},
+	rights = {Creative Commons Attribution-{ShareAlike} License},
+	url = {https://en.wikipedia.org/w/index.php?title=DARPA_Robotics_Challenge&oldid=719114817},
+	abstract = {The {DARPA} Robotics Challenge ({DRC}) was a prize competition funded by the {US} Defense Advanced Research Projects Agency.},
+	booktitle = {Wikipedia, the free encyclopedia},
+	urldate = {2016-06-27},
+	date = {2016-05-07},
+	langid = {english},
+	note = {Page Version {ID}: 719114817},
+	file = {Snapshot:/home/taiping/.mozilla/firefox/ipyx52cz.default/zotero/storage/WUKB4HWI/index.html:text/html}
+}
+
+@inproceedings{yuan_entorhinal-hippocampal_2015,
+	title = {An Entorhinal-Hippocampal Model for Simultaneous Cognitive Map Building},
+	booktitle = {Twenty-Ninth {AAAI} Conference on Artificial Intelligence},
+	author = {Yuan, Miaolong and Tian, Bo and Shim, Vui Ann and Tang, Huajin and Li, Haizhou},
+	date = {2015},
+	keywords = {mapping, navigation}
+}
+
+@article{poo_whereto_2014,
+	title = {Whereto the mega brain projects?},
+	pages = {nwt019},
+	journaltitle = {National Science Review},
+	author = {Poo, Mu-ming},
+	date = {2014},
+	keywords = {brain project, Poo},
+	file = {natlscirev-2014-poo4.pdf:/media/taiping/study/Ubuntu_Research16.05.05/0 CompNeuro/0 Literature/2 bioNeural Basis/natlscirev-2014-poo4.pdf:application/pdf}
+}
+
+@article{tolman_cognitive_1948,
+	title = {Cognitive maps in rats and men.},
+	volume = {55},
+	pages = {189},
+	number = {4},
+	journaltitle = {Psychological review},
+	author = {Tolman, Edward C.},
+	date = {1948}
+}
+
+@article{__2015,
+	title = {一种改进的 {RatSLAM} 仿生导航算法},
+	pages = {73--79},
+	number = {5},
+	journaltitle = {导航与控制},
+	author = {张潇 and 胡小平 and 张礼廉 and 马涛 and 王玉杰},
+	date = {2015},
+	file = {一种改进的RatSLAM仿生导航算法.pdf:/media/taiping/study/Ubuntu_Research16.05.05/0 CompNeuro/0 Literature/4 Spatial Cognition and Navigation/一种改进的RatSLAM仿生导航算法.pdf:application/pdf}
+}
+
+@article{burgess_robotic_1997,
+	title = {Robotic and neuronal simulation of the hippocampus and rat navigation},
+	volume = {352},
+	pages = {1535--1543},
+	number = {1360},
+	journaltitle = {Philosophical Transactions of the Royal Society of London B: Biological Sciences},
+	author = {Burgess, Neil and Donnett, James G. and Jeffery, Kathryn J. and John, O.},
+	date = {1997}
+}
+
+@article{cuperlier_neuro-_2007,
+	title = {Neuro- biologically inspired mobile robot navigation and planning},
+	volume = {1},
+	pages = {3},
+	journaltitle = {Frontiers in neurorobotics},
+	author = {Cuperlier, Nicolas and Quoy, Mathias and Gaussier, Philippe},
+	date = {2007}
+}
+
+@inproceedings{jauffret_multimodal_2012,
+	title = {Multimodal integration of visual place cells and grid cells for navigation tasks of a real robot},
+	pages = {136--145},
+	booktitle = {International Conference on Simulation of Adaptive Behavior},
+	publisher = {Springer},
+	author = {Jauffret, Adrien and Cuperlier, Nicolas and Gaussier, Philippe and Tarroux, Philippe},
+	date = {2012}
+}
+
+@article{milford_mapping_2008,
+	title = {Mapping a suburb with a single camera using a biologically inspired {SLAM} system},
+	volume = {24},
+	pages = {1038--1053},
+	number = {5},
+	journaltitle = {{IEEE} Transactions on Robotics},
+	author = {Milford, Michael J. and Wyeth, Gordon F.},
+	date = {2008}
+}
+
+@inproceedings{tian_rgb-d_2013,
+	title = {{RGB}-D based cognitive map building and navigation},
+	isbn = {2153-0858},
+	pages = {1562--1567},
+	booktitle = {2013 {IEEE}/{RSJ} International Conference on Intelligent Robots and Systems},
+	publisher = {{IEEE}},
+	author = {Tian, Bo and Shim, Vui Ann and Yuan, Miaolong and Srinivasan, Chithra and Tang, Huajin and Li, Haizhou},
+	date = {2013},
+	keywords = {mapping, navigation}
+}
+
+@article{lever_boundary_2009,
+	title = {Boundary vector cells in the subiculum of the hippocampal formation},
+	volume = {29},
+	pages = {9771--9777},
+	number = {31},
+	journaltitle = {The journal of neuroscience},
+	author = {Lever, Colin and Burton, Stephen and Jeewajee, Ali and O'Keefe, John and Burgess, Neil},
+	date = {2009},
+	keywords = {boundary cell, navigation cell}
+}
+
+@article{kropff_speed_2015,
+	title = {Speed cells in the medial entorhinal cortex},
+	journaltitle = {Nature},
+	author = {Kropff, Emilio and Carmichael, James E. and Moser, May-Britt and Moser, Edvard I.},
+	date = {2015},
+	keywords = {navigation cell, speed cell}
+}
+
+@article{okeefe_hippocampus_1971,
+	title = {The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat},
+	volume = {34},
+	pages = {171--175},
+	number = {1},
+	journaltitle = {Brain research},
+	author = {O'Keefe, John and Dostrovsky, Jonathan},
+	date = {1971},
+	keywords = {navigation cell, place cell}
+}
+
+@article{taube_head-direction_1990,
+	title = {Head-direction cells recorded from the postsubiculum in freely moving rats. I. Description and quantitative analysis},
+	volume = {10},
+	pages = {420--435},
+	number = {2},
+	journaltitle = {The Journal of neuroscience},
+	author = {Taube, Jeffrey S. and Muller, Robert U. and Ranck, James B.},
+	date = {1990},
+	keywords = {{HD} cell, navigation cell}
+}
+
+@article{hafting_microstructure_2005,
+	title = {Microstructure of a spatial map in the entorhinal cortex},
+	volume = {436},
+	pages = {801--806},
+	number = {7052},
+	journaltitle = {Nature},
+	author = {Hafting, Torkel and Fyhn, Marianne and Molden, Sturla and Moser, May-Britt and Moser, Edvard I.},
+	date = {2005},
+	keywords = {grid cell, navigation cell}
+}
+
+@article{darwin_origin_1873,
+	title = {Origin of certain instincts},
+	volume = {7},
+	pages = {417--418},
+	journaltitle = {Nature},
+	author = {Darwin, Charles},
+	date = {1873}
+}
+
+@article{zhang_representation_1996,
+	title = {Representation of spatial orientation by the intrinsic dynamics of the head-direction cell ensemble: a theory},
+	volume = {16},
+	pages = {2112--2126},
+	number = {6},
+	journaltitle = {The journal of neuroscience},
+	author = {Zhang, Kechen},
+	date = {1996},
+	keywords = {{HD} cell, {HD} cell model},
+	file = {Representation  of Spatial  Orientation by the Intrinsic Dynamics of the  Head-Direction Cell  Ensemble A Theory .pdf:/home/taiping/.mozilla/firefox/ipyx52cz.default/zotero/storage/SNPEA444/Representation  of Spatial  Orientation by the Intrinsic Dynamics of the  Head-Direction Cell  Ensemble A Theory .pdf:application/pdf}
+}
+
+@article{mcnaughton_dead_1991,
+	title = {“Dead reckoning,” landmark learning, and the sense of direction: a neurophysiological and computational hypothesis},
+	volume = {3},
+	pages = {190--202},
+	number = {2},
+	journaltitle = {Journal of Cognitive Neuroscience},
+	author = {{McNaughton}, B. L. and Chen, L. L. and Markus, E. J.},
+	date = {1991},
+	keywords = {{HD} cell, {HD} cell model}
+}
+
+@article{hinman_multiple_2016,
+	title = {Multiple Running Speed Signals in Medial Entorhinal Cortex},
+	journaltitle = {Neuron},
+	author = {Hinman, James R. and Brandon, Mark P. and Climer, Jason R. and Chapman, G. William and Hasselmo, Michael E.},
+	date = {2016}
+}
+
+@book{hansel_modeling_1998,
+	title = {Modeling feature selectivity in local cortical {circuitsMethods} in Neuronal Modeling ed C Koch and I Segev},
+	publisher = {Cambridge, {MA}: {MIT} Press},
+	author = {Hansel, D. and Sompolinsky, H.},
+	date = {1998},
+	keywords = {{HD} cell, {HD} cell model, ring attractor}
+}
+
+@article{zilli_models_2012,
+	title = {Models of grid cell spatial firing published 2005–2011},
+	volume = {6},
+	pages = {16},
+	journaltitle = {Frontiers in neural circuits},
+	author = {Zilli, Eric A.},
+	date = {2012},
+	keywords = {grid cell model, review},
+	file = {Models of grid cell spatial firing published 2005–2011.pdf:/home/taiping/.mozilla/firefox/ipyx52cz.default/zotero/storage/T8QUCWNX/Models of grid cell spatial firing published 2005–2011.pdf:application/pdf}
+}
+
+@article{guanella_model_2007,
+	title = {A model of grid cells based on a twisted torus topology},
+	volume = {17},
+	pages = {231--240},
+	number = {4},
+	journaltitle = {International journal of neural systems},
+	author = {Guanella, Alexis and Kiper, Daniel and Verschure, Paul},
+	date = {2007},
+	keywords = {grid cell model, twisted torus}
+}
+
+@misc{_cmake_????,
+	title = {Cmake 实践},
+	file = {CMake Practice.pdf:/home/taiping/.mozilla/firefox/ipyx52cz.default/zotero/storage/JUUZ4BA7/CMake Practice.pdf:application/pdf}
+}
+
+@article{solstad_grid_2006,
+	title = {From grid cells to place cells : a mathematical model.},
+	volume = {16},
+	pages = {1026--1031},
+	number = {12},
+	journaltitle = {Hippocampus},
+	author = {Solstad, Trygve and Moser, Edvard I and Einevoll, Gaute T},
+	date = {2006},
+	keywords = {grid cell, grid to place, place cell}
+}
+
+@article{bonnevie_grid_2013,
+	title = {Grid cells require excitatory drive from the hippocampus},
+	volume = {16},
+	issn = {1097-6256},
+	url = {http://dx.doi.org/10.1038/nn.3311},
+	doi = {10.1038/nn.3311},
+	pages = {309--317},
+	number = {3},
+	journaltitle = {Nat Neurosci},
+	shortjournal = {Nat Neurosci},
+	author = {Bonnevie, Tora and Dunn, Benjamin and Fyhn, Marianne and Hafting, Torkel and Derdikman, Dori and Kubie, John L and Roudi, Yasser and Moser, Edvard I and Moser, May-Britt},
+	date = {2013-03}
+}
+
+@article{grillner_worldwide_2016,
+	title = {Worldwide initiatives to advance brain research},
+	volume = {19},
+	issn = {1097-6256},
+	url = {http://dx.doi.org/10.1038/nn.4371},
+	pages = {1118--1122},
+	number = {9},
+	journaltitle = {Nat Neurosci},
+	shortjournal = {Nat Neurosci},
+	author = {Grillner, Sten and Ip, Nancy and Koch, Christof and Koroshetz, Walter and Okano, Hideyuki and Polachek, Miri and Poo, Mu-ming and Sejnowski, Terrence J},
+	date = {2016-09}
+}
+
+@thesis{gerardo_carrera_robot_2012,
+	title = {Robot {SLAM} and navigation with multi-camera computer vision},
+	institution = {{IMPERIAL} {COLLEGE} L {ONDON}},
+	type = {phdthesis},
+	author = {Gerardo Carrera, Mendoza and Andrew, Davison},
+	date = {2012}
+}
+
+@article{__2015-1,
+	title = {海马空间认知机理及其在仿生机器人导航中的应用},
+	author = {于乃功},
+	date = {2015-03},
+	file = {海马空间认知机理及其在仿生机器人导航中的应用*.pdf:/media/taiping/study/Ubuntu_Research16.05.05/0 CompNeuro/0 Literature/4 Spatial Cognition and Navigation/海马空间认知机理及其在仿生机器人导航中的应用*.pdf:application/pdf}
+}
+
+@article{kraus_hippocampal_2013,
+	title = {Hippocampal “time cells”: time versus path integration},
+	volume = {78},
+	pages = {1090--1101},
+	number = {6},
+	journaltitle = {Neuron},
+	author = {Kraus, Benjamin J and Robinson, Robert J and White, John A and Eichenbaum, Howard and Hasselmo, Michael E},
+	date = {2013},
+	keywords = {navigation cell, time cell}
+}
+
+@article{macdonald_hippocampal_2011,
+	title = {Hippocampal “time cells” bridge the gap in memory for discontiguous events},
+	volume = {71},
+	pages = {737--749},
+	number = {4},
+	journaltitle = {Neuron},
+	author = {{MacDonald}, Christopher J and Lepage, Kyle Q and Eden, Uri T and Eichenbaum, Howard},
+	date = {2011},
+	keywords = {navigation cell, time cell}
+}
+
+@article{ball_openratslam:_2013,
+	title = {{OpenRatSLAM}: an open source brain-based {SLAM} system},
+	volume = {34},
+	pages = {149--176},
+	number = {3},
+	journaltitle = {Autonomous Robots},
+	author = {Ball, David and Heath, Scott and Wiles, Janet and Wyeth, Gordon and Corke, Peter and Milford, Michael},
+	date = {2013},
+	file = {OpenRatSLAM an open source brain-based SLAM system-2013.pdf:/media/taiping/study/Ubuntu_Research16.05.05/0 CompNeuro/0 Literature/4 Spatial Cognition and Navigation/OpenRatSLAM an open source brain-based SLAM system-2013.pdf:application/pdf}
+}
+
+@thesis{schwertfeger_robotic_2012,
+	title = {Robotic mapping in the real world: Performance evaluation and system integration},
+	institution = {{IRC}-Library, Information Resource Center der Jacobs University Bremen},
+	type = {phdthesis},
+	author = {Schwertfeger, Sören},
+	date = {2012},
+	file = {phd20120706_Schwertfeger.pdf:/media/taiping/study/Ubuntu_Research16.05.05/0 CompNeuro/0 Literature/6 Robot SLAM and Navigation/phd20120706_Schwertfeger.pdf:application/pdf}
+}
+
+@article{schwertfeger_map_2016,
+	title = {Map evaluation using matched topology graphs},
+	volume = {40},
+	pages = {761--787},
+	number = {5},
+	journaltitle = {Autonomous Robots},
+	author = {Schwertfeger, Sören and Birk, Andreas},
+	date = {2016}
+}
+
+
+@article{si_continuous_2014,
+	title = {Continuous attractor network model for conjunctive position-by-velocity tuning of grid cells},
+	volume = {10},
+	pages = {e1003558},
+	number = {4},
+	journaltitle = {{PLoS} Comput Biol},
+	author = {Si, Bailu and Romani, Sandro and Tsodyks, Misha},
+	date = {2014}
+}
+
+@article{yoram_burak_accurate_2009,
+	title = {Accurate path integration in continuous attractor network models of grid cells},
+	volume = {5},
+	pages = {e1000291},
+	number = {2},
+	journaltitle = {{PLoS} Comput Biol},
+	author = {{Yoram Burak} and {Ila R Fiete}},
+	date = {2009}
+}
+
+@article{insel_nih_2013,
+	title = {The {NIH} brain initiative},
+	volume = {340},
+	pages = {687--688},
+	number = {6133},
+	journaltitle = {Science},
+	author = {Insel, Thomas R and Landis, Story C and Collins, Francis S},
+	date = {2013}
+}
+
+@article{markram_human_2012,
+	title = {The human brain project},
+	volume = {306},
+	pages = {50--55},
+	number = {6},
+	journaltitle = {Scientific American},
+	author = {Markram, Henry},
+	date = {2012}
+}
+
+@article{okano_brain/minds:_2015,
+	title = {Brain/{MINDS}: brain-mapping project in Japan},
+	volume = {370},
+	pages = {20140310},
+	number = {1668},
+	journaltitle = {Phil. Trans. R. Soc. B},
+	author = {Okano, Hideyuki and Miyawaki, Atsushi and Kasai, Kiyoto},
+	date = {2015}
+}
+
+@article{burgess_2014_2014,
+	title = {The 2014 Nobel Prize in Physiology or Medicine: a spatial model for cognitive neuroscience},
+	volume = {84},
+	pages = {1120--1125},
+	number = {6},
+	journaltitle = {Neuron},
+	author = {Burgess, Neil},
+	date = {2014}
+}
